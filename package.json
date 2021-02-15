@@ -5,7 +5,6 @@
     "main": "index.js",
     "scripts": {
         "build": "better-npm-run babelify",
-        "prepublishOnly": "npm run build",
         "fix-lint": "eslint src/** --ext .js,.jsx --fix --ignore-pattern __tests__ --ignore-pattern example",
         "test": "echo \"No test specified\""
     },
