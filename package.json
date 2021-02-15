@@ -6,7 +6,12 @@
     "scripts": {
         "build": "better-npm-run babelify",
         "prepublishOnly": "npm run build",
-        "fix-lint": "eslint src/** --ext .js,.jsx --fix --ignore-pattern __tests__ --ignore-pattern example"
+        "fix-lint": "eslint src/** --ext .js,.jsx --fix --ignore-pattern __tests__ --ignore-pattern example",
+        "test": "echo \"No test specified\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anasamo92/focus-file-updated.git"
     },
     "betterScripts": {
         "babelify": {
