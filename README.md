@@ -33,5 +33,5 @@ If you want to catch [DropzoneJS events](http://www.dropzonejs.com/#events), you
 ### Dependencies
 
 * [DropzoneJS](http://www.dropzonejs.com)
-* [Focus core](https://github.com/KleeGroup/focus-core)
+* [Focus core](https://github.com/KleeGroup/focus-core-updated)
 * [ReactJS](https://facebook.github.io/react/)
