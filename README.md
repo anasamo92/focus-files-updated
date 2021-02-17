@@ -7,7 +7,7 @@ Focus file addon. Uses [DropzoneJS](http://www.dropzonejs.com/).
 
 In your project, do the following :
 ```
-npm i -D focus-file-updated@latest
+npm i -D focus-files-updated@latest
 ```
 
 If your running on brunchJs, don't forget to copy the downloaded script to your `vendor` folder.
